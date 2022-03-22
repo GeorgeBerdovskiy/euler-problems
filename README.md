@@ -1,5 +1,5 @@
 # euler-problems
-This repository is a collection of my solutions to the first one hundred Project Euler challenges. But don't spoil your fun by looking through solutions before you're ready!
+This repository is a collection of my solutions to the first one hundred Project Euler challenges. Please don't spoil your fun by looking for solutions before you are ready!
 
 ## Folder Organization
 The parent folder contains the C++ files for every challenge. The number of each file is the challenge it solves.
